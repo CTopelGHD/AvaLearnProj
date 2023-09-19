@@ -75,4 +75,10 @@ DerivedDataCache/*
 
 
 # Removes Sounds Folder
-Content/Sounds/*
+Sounds/*
+
+# Removed MetaHumans
+Content/MetaHumans/*
+
+# Removed External Actors
+Content/__ExternalActors__/*
