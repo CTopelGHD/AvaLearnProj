@@ -82,3 +82,6 @@ Content/MetaHumans/*
 
 # Removed External Actors
 Content/__ExternalActors__/*
+
+# Remove the Plugins folder
+Plugins/*
